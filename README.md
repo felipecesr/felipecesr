@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there, I'm Felipe! 👋
+
+🏡 I'm from Brazil <br />
+💻 Currently working on [@Personare](https://github.com/Personare)
+
+### 🌎 Find me on the web
+
+- 💼 https://www.linkedin.com/in/felipecesr/
+- 📝 https://medium.com/@felipecesr
+- 💬 https://twitter.com/felipecesr
+- 🚀 https://felipecesar.dev
 
 <!--
 **felipecesr/felipecesr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
