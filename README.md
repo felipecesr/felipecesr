@@ -10,6 +10,11 @@
 🐦 [Twitter](https://twitter.com/felipecesr) <br />
 🚀 [Blog](https://felipecesar.dev)
 
+### 📕 Latest Blog Posts
+
+<!-- BLOG:START -->
+<!-- BLOG:END -->
+
 <!--
 **felipecesr/felipecesr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
