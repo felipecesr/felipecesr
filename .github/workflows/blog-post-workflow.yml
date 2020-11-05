@@ -1,7 +1,12 @@
 name: Latest blog post workflow
 
 on:
+  repository_dispatch:
+    types:
+      - blog-update
   push:
+    branches:
+      - master
 
 jobs:
   update-readme-with-blog:
