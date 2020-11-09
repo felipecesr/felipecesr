@@ -13,6 +13,9 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG:START -->
+- [Gerenciando dependências com Volta](https://felipecesar.dev/gerenciando-dependencias-com-volta)
+- [React com TDD: Renderizando uma lista](https://felipecesar.dev/react-com-tdd-renderizando-uma-lista)
+- [Escrevendo um componente React com TDD](https://felipecesar.dev/escrevendo-um-componente-react-com-tdd)
 <!-- BLOG:END -->
 
 ### 📊 Weekly development breakdown
