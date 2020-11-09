@@ -10,6 +10,9 @@
 🐦 [Twitter](https://twitter.com/felipecesr) <br />
 🚀 [Blog](https://felipecesar.dev)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ### 📕 Latest Blog Posts
 
 <!-- BLOG:START -->
