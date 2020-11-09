@@ -12,3 +12,6 @@ jobs:
         with:
           comment_tag_name: BLOG
           feed_list: 'https://felipecesar.dev/rss.xml'
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
