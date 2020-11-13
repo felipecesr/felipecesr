@@ -1,6 +1,13 @@
 name: Latest blog post workflow
 
-on: [push, repository_dispatch]
+on:
+  push:
+    branches:
+      - master
+  schedule:
+    - cron: '0 3 * * *'
+  repository_dispatch:
+    types: [update-data]
 
 jobs:
   update-readme-with-blog:
