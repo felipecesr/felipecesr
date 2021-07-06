@@ -13,6 +13,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG:START -->
+- [Como criar um componente React com TDD](https://felipecesar.dev/como-criar-um-componente-react-com-tdd)
 - [Gerenciando dependências com Volta](https://felipecesar.dev/gerenciando-dependencias-com-volta)
 - [React com TDD: Renderizando uma lista](https://felipecesar.dev/react-com-tdd-renderizando-uma-lista)
 - [Escrevendo um componente React com TDD](https://felipecesar.dev/escrevendo-um-componente-react-com-tdd)
