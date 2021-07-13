@@ -13,11 +13,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG:START -->
+- [Como criar testes de integração em aplicações React](https://felipecesar.dev/como-criar-testes-de-integração-em-aplicações-react)
 - [Como criar funções puras com TDD](https://felipecesar.dev/como-criar-funções-puras-com-tdd)
 - [Como desenvolver um formulário em React com TDD](https://felipecesar.dev/como-desenvolver-um-formulário-em-react-com-tdd)
 - [Simplificando testes com Testing Library](https://felipecesar.dev/simplificando-testes-com-testing-library)
 - [Como criar um componente React com TDD](https://felipecesar.dev/como-criar-um-componente-react-com-tdd)
-- [Gerenciando dependências com Volta](https://felipecesar.dev/gerenciando-dependencias-com-volta)
 <!-- BLOG:END -->
 
 <!--
