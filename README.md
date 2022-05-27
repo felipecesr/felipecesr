@@ -1,7 +1,7 @@
 ### Hi there, I'm Felipe! 👋
 
 🇧🇷 I'm from Brazil <br />
-💻 Currently working at [@Personare](https://github.com/Personare)
+💻 Currently working at [Globo](https://github.com/globocom)
 
 ### Find me on the web 🌎
 
